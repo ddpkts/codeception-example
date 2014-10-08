@@ -1,0 +1,13 @@
+{
+    "name" : "codeception-example",
+    "title" : "codeception example",
+    "description" : "just a simple codeception grunt example",
+    "version" : "0.0.1",
+    "devDependencies": {
+        "grunt": "~0.4.4",
+        "grunt-cli": "~0.1.11",
+        "grunt-run": "^0.1.14",
+        "grunt-exec": "~0.4.3",
+        "phantomjs": "^1.9.7-3"
+    }
+}
