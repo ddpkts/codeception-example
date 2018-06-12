@@ -11,6 +11,6 @@ modules:
         - AcceptanceHelper
     config:
         WebDriver:
-            url: 'http://www.nfq.lt/'
+            url: 'https://www.nfq.lt/'
             browser: phantomjs
             window_size: maximize
